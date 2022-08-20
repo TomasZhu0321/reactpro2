@@ -22,3 +22,13 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.form-control.isValid input {
+  background: #74a6f2;
+  border-color: #045445;
+}
+
+.form-control.isValid label {
+  background: #b08be5;
+  border-color: #220422;
+}
